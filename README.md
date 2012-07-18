@@ -1,4 +1,4 @@
 poi-finder
 ==========
 
-Mobile Location Based POI Search
+Mobile Location Based Points of Interest Search
